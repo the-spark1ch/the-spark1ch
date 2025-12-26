@@ -13,7 +13,6 @@ Professional Python Developer with a focus on web technologies.
 ### 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=the-spark1ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
----
 
 ### 🛠 Tech Stack
 
