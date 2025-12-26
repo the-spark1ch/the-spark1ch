@@ -12,7 +12,7 @@ Professional Python Developer with a focus on web technologies.
 
 ### 📊 GitHub Statistics
 
-![snake svg](https://raw.githubusercontent.com/spark1ch/spark1ch/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spark1ch&show_icons=true&theme=dark)
 ---
 
 ### 🛠 Tech Stack
