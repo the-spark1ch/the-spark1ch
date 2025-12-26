@@ -1,18 +1,28 @@
-# spark1ch
+# the-spark1ch
 
-Professional Python Developer with a focus on web technologies.
+Professional Python Developer with a focus on web technologies and backend logic.
 
 ### 💻 Technical Expertise
 
 * **Programming Languages:** Python (2+ years of experience), JavaScript (Base)
-* **Web Development:** HTML5, CSS3, Web Markup
-* **Version Control:** Git
+* **Web Development:** HTML5, CSS3, Modern Web Markup
+* **Version Control:** Git (CLI & GitHub)
 
 ---
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-spark1ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-spark1ch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="the-spark1ch github stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-spark1ch&layout=compact&theme=dark&langs_count=6" alt="the-spark1ch top languages" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+![snake svg](https://raw.githubusercontent.com/the-spark1ch/the-spark1ch/output/github-contribution-grid-snake.svg)
+
+---
 
 ### 🛠 Tech Stack
 
@@ -25,6 +35,6 @@ Professional Python Developer with a focus on web technologies.
 ---
 
 ### 📌 Current Focus
-- Advanced Python development and architecture.
+- Advanced Python development and clean code architecture.
 - Improving frontend interactivity using JavaScript.
-- Implementing version control best practices.
+- Enhancing workflow automation with Git and GitHub Actions.
