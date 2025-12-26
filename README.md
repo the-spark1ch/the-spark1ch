@@ -12,7 +12,6 @@ Professional Python Developer with a focus on web technologies and backend logic
 
 ### 🐍 Contribution Activity
 ![snake svg](https://raw.githubusercontent.com/the-spark1ch/the-spark1ch/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ### 🛠 Tech Stack
