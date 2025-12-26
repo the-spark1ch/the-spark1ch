@@ -13,7 +13,7 @@ Professional Python Developer with a focus on web technologies.
 ### 📊 GitHub Statistics
 
 <p align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spark1ch&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spark1ch&layout=compact&theme=dark" />
 </p>
 
 ---
