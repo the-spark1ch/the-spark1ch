@@ -1,53 +1,60 @@
-# the-spark1ch
+# Hi, I'm the-spark1ch 👋
 
-Professional Python Developer with a focus on web technologies and backend logic.
+### Software Developer | Python & Web Technologies
 
-### 💻 Technical Expertise
+I am a results-driven developer with over **2 years of experience in Python** and a strong foundation in **Full-stack Web Development**. I specialize in building efficient backend systems, crafting responsive user interfaces with **Tailwind CSS**, and managing environments within **Linux** ecosystems. 
 
-* **Programming Languages:** Python (2+ years of experience), JavaScript (Base)
-* **Web Development:** HTML5, CSS3, Modern Web Markup
-* **Version Control:** Git (CLI & GitHub)
+I am passionate about clean code, system architecture, and automating workflows.
 
+---
 
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+### 🛠 Technical Stack
+
+#### **Languages & Backend**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### **Frontend & Design**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Tools & Systems**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ### 🐍 Contribution Activity
-![snake svg](https://raw.githubusercontent.com/the-spark1ch/the-spark1ch/output/github-contribution-grid-snake-dark.svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/the-spark1ch/the-spark1ch/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🛠 Tech Stack
+### 📊 Professional Statistics
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-spark1ch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-spark1ch&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="180" />
+</p>
 
 ---
 
-### 📌 Current Focus
-- Advanced Python development and clean code architecture.
-- Improving frontend interactivity using JavaScript.
-- Enhancing workflow automation with Git and GitHub Actions.
+### 📝 Core Competencies
+
+* **Advanced Python Development:** Writing scalable, maintainable code and integrating complex APIs.
+* **Modern Web Layouts:** Expert-level UI development using Tailwind CSS and modern JS practices.
+* **System Administration:** Proficient in Linux environment setup, bash scripting, and server management.
+* **Version Control:** Advanced Git workflows, branching strategies, and collaborative development.
+
+---
+
+### 📫 Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username_here)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username_here)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+*“Simplicity is the soul of efficiency.”*
