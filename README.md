@@ -8,7 +8,7 @@ Professional Python Developer with a focus on web technologies and backend logic
 * **Web Development:** HTML5, CSS3, Modern Web Markup
 * **Version Control:** Git (CLI & GitHub)
 
-```
+
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -26,7 +26,6 @@ Professional Python Developer with a focus on web technologies and backend logic
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-```
 
 ---
 
