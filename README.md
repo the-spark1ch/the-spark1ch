@@ -20,7 +20,7 @@ I am passionate about clean code, system architecture, and automating workflows.
 
 ### 🐍 Contribution Activity
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/the-spark1ch/the-spark1ch/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/the-spark1ch/the-spark1ch/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ---
 
@@ -30,6 +30,3 @@ I am passionate about clean code, system architecture, and automating workflows.
 * **Modern Web Layouts:** Expert-level UI development using Tailwind CSS and modern JS practices.
 * **System Administration:** Proficient in Linux environment setup, bash scripting, and server management.
 * **Version Control:** Advanced Git workflows, branching strategies, and collaborative development.
-
----
-*“Simplicity is the soul of efficiency.”*
