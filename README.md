@@ -12,7 +12,7 @@ I am passionate about clean code, system architecture, and automating workflows.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,tailwind,html,css,linux,git,bash" />
+    <img src="https://skillicons.dev/icons?i=py,js,flask,tailwind,html,css,linux,git,bash,vscode" />
   </a>
 </p>
 
