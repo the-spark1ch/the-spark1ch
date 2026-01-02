@@ -1,4 +1,4 @@
-# Hi, I'm the-spark1ch 👋
+# Hi, I'm spark1ch 👋
 
 ### Software Developer | Python & Web Technologies
 
