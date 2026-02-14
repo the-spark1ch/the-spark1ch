@@ -1,10 +1,12 @@
 # Hi, I'm spark1ch 👋
 
-### Software Developer | Python & Web Technologies
+### Software Engineer | Backend & Systems Focus
 
-I am a results-driven developer with over **2 years of experience in Python** and a strong foundation in **Full-stack Web Development**. I specialize in building efficient backend systems, crafting responsive user interfaces with **Tailwind CSS**, and managing environments within **Linux** ecosystems. 
+I am a **Software Engineer with 4 years of experience in Python**, specializing in backend systems, application architecture, and performance-oriented development.
 
-I am passionate about clean code, system architecture, and automating workflows.
+My focus is not just on writing code — but on designing systems that are scalable, maintainable, and efficient. I enjoy solving algorithmic challenges, optimizing performance, and building structured solutions that remain clean over time.
+
+I work comfortably across backend, desktop, and web environments, with a strong engineering mindset and attention to detail.
 
 ---
 
@@ -18,15 +20,33 @@ I am passionate about clean code, system architecture, and automating workflows.
 
 ---
 
-### 🐍 Contribution Activity
+### 🧠 Engineering Focus
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/the-spark1ch/the-spark1ch/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+* **Backend Engineering:** Designing RESTful services, modular architectures, and efficient server-side logic using Python (Flask) and Node.js.
+* **Algorithmic Thinking:** Developing optimized, elegant solutions with attention to complexity and performance.
+* **Desktop Application Development:** Building structured and maintainable Electron applications with clean process separation.
+* **System-Level Work:** Comfortable working in Linux environments, automating workflows with Bash, and managing runtime environments.
+* **Code Quality & Maintainability:** Writing clean, readable, and scalable code with long-term sustainability in mind.
 
 ---
 
-### 📝 Core Competencies
+### ⚙️ Core Strengths
 
-* **Advanced Python Development:** Writing scalable, maintainable code and integrating complex APIs.
-* **Modern Web Layouts:** Expert-level UI development using Tailwind CSS and modern JS practices.
-* **System Administration:** Proficient in Linux environment setup, bash scripting, and server management.
-* **Version Control:** Advanced Git workflows, branching strategies, and collaborative development.
+- Architectural thinking over quick fixes  
+- Performance optimization and efficiency  
+- Clean code principles and modular design  
+- Structured problem-solving approach  
+- Strong Git workflow and collaborative development  
+
+---
+
+### 🚀 What Drives Me
+
+I am particularly interested in:
+
+- Scalable backend systems  
+- Performance optimization  
+- Well-structured software architecture  
+- Complex logic and non-trivial problem solving  
+
+I aim to build software that is not only functional, but thoughtfully engineered.
