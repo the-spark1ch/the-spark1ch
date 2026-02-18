@@ -14,7 +14,7 @@ I work comfortably across backend, desktop, and web environments, with a strong 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,npm,flask,tailwind,html,css,sqlite,linux,git,bash,vscode,electron" />
+    <img src="https://skillicons.dev/icons?i=py,flask,nodejs,sqlite,linux,bash,git,electron" />
   </a>
 </p>
 
