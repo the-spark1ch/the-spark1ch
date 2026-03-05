@@ -1,16 +1,16 @@
 # Hi, I'm spark1ch 👋
 
-### Software Engineer | Backend & Systems Focus
+### Software Engineer | Backend & Systems
 
-I am a **Software Engineer with 4 years of experience in Python**, specializing in backend systems, application architecture, and performance-oriented development.
+Backend-focused Software Engineer with **4+ years of experience in Python**, building reliable and scalable systems. I enjoy working close to the system level, designing architectures, and solving performance‑sensitive problems.
 
-My focus is not just on writing code - but on designing systems that are scalable, maintainable, and efficient. I enjoy solving algorithmic challenges, optimizing performance, and building structured solutions that remain clean over time.
+My engineering approach focuses on **clarity, scalability, and maintainability**. I value well‑structured codebases, thoughtful abstractions, and systems that remain understandable as they grow.
 
-I work comfortably across backend, desktop, and web environments, with a strong engineering mindset and attention to detail.
+I primarily work with **Python, Rust, and JavaScript**, building backend services, system tools, and occasionally desktop applications.
 
 ---
 
-### 🛠 Technical Stack
+### 🛠 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,31 +28,35 @@ I work comfortably across backend, desktop, and web environments, with a strong 
 
 ### 🧠 Engineering Focus
 
-* **Backend Engineering:** Designing RESTful services, modular architectures, and efficient server-side logic using Python (Flask) and Node.js.
-* **Algorithmic Thinking:** Developing optimized, elegant solutions with attention to complexity and performance.
-* **Desktop Application Development:** Building structured and maintainable Electron applications with clean process separation.
-* **System-Level Work:** Comfortable working in Linux environments, automating workflows with Bash, and managing runtime environments.
-* **Code Quality & Maintainability:** Writing clean, readable, and scalable code with long-term sustainability in mind.
+**Backend Engineering**
+Designing APIs, services, and internal tooling with a focus on clean architecture and maintainable systems.
+
+**Systems & Performance**
+Interest in low-level behavior, performance optimization, and efficient runtime design.
+
+**Architecture & Design**
+Building modular systems with clear boundaries and long-term maintainability.
+
+**Developer Tooling & Automation**
+Working comfortably in Linux environments, automating workflows with Bash and scripting tools.
 
 ---
 
 ### ⚙️ Core Strengths
 
-- Architectural thinking over quick fixes  
-- Performance optimization and efficiency  
-- Clean code principles and modular design  
-- Structured problem-solving approach  
-- Strong Git workflow and collaborative development  
+* Backend and systems thinking
+* Performance-oriented development
+* Clean architecture and modular design
+* Structured problem solving
+* Strong Git-based development workflow
 
 ---
 
-### 🚀 What Drives Me
+### 🚀 Interests
 
-I am particularly interested in:
+* Backend infrastructure
+* Distributed and scalable systems
+* Performance engineering
+* System design
 
-- Scalable backend systems  
-- Performance optimization  
-- Well-structured software architecture  
-- Complex logic and non-trivial problem solving  
-
-I aim to build software that is not only functional, but thoughtfully engineered.
+I aim to build software that is **reliable, efficient, and well engineered**.
