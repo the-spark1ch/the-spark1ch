@@ -1,6 +1,6 @@
-## Independent Backend Developer
+## Backend Developer
 
-Independent backend developer focused on designing and implementing server-side applications, automation workflows, and internal tooling. Primary work involves building structured API services, system scripting, and functional backend architectures.
+Backend developer focused on designing and implementing server-side applications, automation workflows, and internal tooling. Primary work involves building structured API services, system scripting, and functional backend architectures.
 
 Development is centered around Linux environments, practical scripting, and lightweight data storage solutions. The main emphasis is on writing maintainable, predictable code with minimal overhead.
 
