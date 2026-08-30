@@ -12,7 +12,7 @@ When it comes to engineering, I value **simplicity, predictability, and clean de
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,js,nodejs,flask,sqlite,linux,git,bash,npm,vscode,electron" />
+    <img src="https://skillicons.dev/icons?i=,py,js,nodejs,flask,sqlite,linux,git,bash,npm,vscode,electron" />
   </a>
 </p>
 
